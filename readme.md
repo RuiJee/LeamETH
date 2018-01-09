@@ -11,3 +11,5 @@
 >[第四章 编写一个符合ERC20代币DEMO](./Chapter_4.md)
 >
 >[第五章 创建一个自己的ETH钱包](./Chapter_5.md)
+>
+>[第六章 针对Web3.js的简要说明](./Chapter_5.md)
